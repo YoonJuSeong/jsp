@@ -7,6 +7,18 @@
 <title>Insert title here</title>
 </head>
 <body>
-한글
+
+<textarea cols="160" rows="60">
+자바스크립트
+-정규식
+-셀렉션
+-대용량 처리
+
+Jquery UI
+
+
+
+</textarea>
+
 </body>
 </html>
